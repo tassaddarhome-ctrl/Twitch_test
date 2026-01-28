@@ -1,0 +1,5 @@
+{
+  "name": "StreamNexus: Twitch Audience Games",
+  "description": "An interactive glass-morphism dashboard allowing streamers to play real-time games with their Twitch chat, powered by Gemini AI for dynamic content.",
+  "requestFramePermissions": []
+}
